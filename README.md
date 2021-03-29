@@ -1,4 +1,4 @@
-# Joke-Rating-Prediction
+# Joke-Rating-Recommender
 
 This practice problem challenges the participants to predict the ratings for jokes given by the users provided the ratings provided by the same users for another set of jokes. This dataset is taken from the famous jester online Joke Recommender system dataset.
 My solution to the Joke recommender on analyticsvidhya.com -- https://datahack.analyticsvidhya.com/contest/jester-practice-problem/
